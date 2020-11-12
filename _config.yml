@@ -1,5 +1,5 @@
 remote_theme : daattali/beautiful-jekyll
-url                      : "https://HN-DEV.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hannahb-dev.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Welcome to Beautiful Jekyll!
@@ -20,8 +20,8 @@ author: HANNAH.B
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Beautiful Jekyll: "https://hannahb-dev.github.io/"
+    - Learn markdown: "hhttps://hannahb-dev.github.io/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -81,7 +81,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://HN-DEV.github.io/"
+url-pretty: "https://hannahb-dev.github.io//"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
