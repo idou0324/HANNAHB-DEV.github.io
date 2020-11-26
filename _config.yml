@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: HN's Developer Journal
-subtitle: Journal of my voyage as a developer
+subtitle: to improve myself
 email: vyvy6965@gmail.com
 name: Hannah.B
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  A journal of my voyage as a developer
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -59,6 +59,9 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+    
+   - cat: Algorithm
+    desc: "Posts what I learned from algorithm course"
 
 # Social icons and sharing options
 #
@@ -78,7 +81,7 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username: Twitter
     url: https://twitter.com/the99u
     desc: Follow me on Twitter
     share: true
@@ -92,14 +95,14 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: GitHub
     url: https://hannahb-dev.github.io/
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: LinkedIn
     url: https://kr.linkedin.com/in/%EC%9E%90%ED%98%84-%EB%B0%B0-b74358154
     desc: Connect with me on LinkedIn
     share: true
