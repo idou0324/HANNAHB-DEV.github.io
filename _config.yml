@@ -59,6 +59,9 @@ descriptions:
 
   - cat: Algorithm
     desc: "Posts what I learned from algorithm course."
+    
+  - cat: Spring
+    desc: "스프링"
 
 # Social icons and sharing options
 #
